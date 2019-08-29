@@ -19,7 +19,7 @@ The demo uses the usb-uart bridge to configure the HDMI Display , the Arty Z7-10
 | 7         | Invert and store the current video frame into the next video frame buffer and display it.                                |
 | 8         | Scale the current video frame to the display resolution, store it into the next video frame buffer, and then display it. |
 
-
+**Note**: Despite appearing in the list of available resolutions, 1920x1080@60Hz is not supported.
 
 Requirements
 ------------
